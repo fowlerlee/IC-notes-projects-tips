@@ -53,7 +53,7 @@ When we want to do a try-catch type assertion with exception, do the following w
 
 //in the methods throughout the code we use caller public shared({ caller }) func update_note(encrypted_note: EncryptedNote): async () {...};
 
-#Cool projects on ICP 
+# Cool projects on ICP 
 
 Openchat 
 Dbox 
