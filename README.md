@@ -5,7 +5,8 @@
 
 - Rust best practices -> https://www.youtube.com/watch?v=36L33S_DYHY 
 - Build rust dapps -> Community conversations | overview of building a dapp in Rust 
-- How to pitch my project to VCs -> https://www.youtube.com/watch?v=hK8r-W8p1GY Ledger canister -> watch Internet Identity -> https://www.youtube.com/watch?v=vCyQb9IHNQY 
+- How to pitch my project to VCs -> https://www.youtube.com/watch?v=hK8r-W8p1GY 
+- Ledger canister -> watch Internet Identity -> https://www.youtube.com/watch?v=vCyQb9IHNQY 
 - Frontends on IC: https://www.youtube.com/watch?v=rjSDvTaEj3s 
 - Hosting on IC: https://www.youtube.com/watch?v=JAQ1dkFvfPI 
 - Motoko intro: https://www.youtube.com/watch?v=WUqMwqt7abQ 
@@ -30,7 +31,9 @@
 
 # Encrypted notes dapp
 
-https://internetcomputer.org/samples/encrypted-notes/ How to persist your user notes between upgrades - see time 37:30 in video https://www.youtube.com/watch?v=I14cU7OlhmE for the encrypted notes dapp. You will see two methods that persist the notes using stable variables. The methods are given below. Note this is all done inside the shared actor ->
+- https://internetcomputer.org/samples/encrypted-notes/ 
+- How to persist your user notes between upgrades - see time 37:30 in video https://www.youtube.com/watch?v=I14cU7OlhmE for the encrypted notes dapp.
+- You will see two methods that persist the notes using stable variables. The methods are given below. Note this is all done inside the shared actor ->
 
 shared({ caller = initializer }) actor class() {...};
 
