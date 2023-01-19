@@ -27,7 +27,8 @@
 - Hackathon workshop -> https://www.youtube.com/watch?v=nfgf3oS9W6Q 
 - Mint an NFT -> https://www.youtube.com/watch?v=VGLcBISCB3Y 
 - Http certification -> https://www.youtube.com/watch?v=dw6SvDfv1Yk 
-- Certified variables -> https://www.youtube.com/watch?v=3mZHEfICi_U Portal demo -> https://www.youtube.com/watch?v=ZeHF-Lzciq8
+- Certified variables -> https://www.youtube.com/watch?v=3mZHEfICi_U 
+- Portal demo -> https://www.youtube.com/watch?v=ZeHF-Lzciq8
 
 # Encrypted notes dapp
 
