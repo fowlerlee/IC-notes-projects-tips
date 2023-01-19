@@ -3,30 +3,30 @@
 
 # Links to great videos and learning content
 
-Rust best practices -> https://www.youtube.com/watch?v=36L33S_DYHY 
-Build rust dapps -> Community conversations | overview of building a dapp in Rust 
-How to pitch my project to VCs -> https://www.youtube.com/watch?v=hK8r-W8p1GY Ledger canister -> watch Internet Identity -> https://www.youtube.com/watch?v=vCyQb9IHNQY 
-Frontends on IC: https://www.youtube.com/watch?v=rjSDvTaEj3s 
-Hosting on IC: https://www.youtube.com/watch?v=JAQ1dkFvfPI 
-Motoko intro: https://www.youtube.com/watch?v=WUqMwqt7abQ 
-Motoko intro: https://www.youtube.com/watch?v=WVeovvm3znE 
-Motoko school: https://www.youtube.com/watch?v=A5IYLmqr6YU 
-Encrypted notes: https://www.youtube.com/watch?v=I14cU7OlhmE 
-Dapp: https://www.youtube.com/watch?v=fFaNLKAgoUU 
-NFTs on IC: https://www.youtube.com/watch?v=040fTKgF9BI 
-Intro to IC: https://www.youtube.com/watch?v=Mo5erUD-rqs 
-Key chain tech: https://www.youtube.com/watch?v=vUcDRFC09J0 
-IC3D NFT: https://www.youtube.com/watch?v=kz4DoIiptAg 
-carstenj imageUpload: https://www.youtube.com/watch?v=0O4M0W47KKA 
-HTTP cert: https://www.youtube.com/watch?v=dw6SvDfv1Yk 
-Deploy cans in TS: https://www.youtube.com/watch?v=Mh_FWH-rMI4 
-NFT standards on IC: https://www.youtube.com/watch?v=vgxwPtuH3Qg 
-Design proposal SNS: https://www.youtube.com/watch?v=6V8nQ053aB8 
-Defi -> https://www.youtube.com/watch?v=HftK4xnlSs0 
-Hackathon workshop -> https://www.youtube.com/watch?v=nfgf3oS9W6Q 
-Mint an NFT -> https://www.youtube.com/watch?v=VGLcBISCB3Y 
-Http certification -> https://www.youtube.com/watch?v=dw6SvDfv1Yk 
-Certified variables -> https://www.youtube.com/watch?v=3mZHEfICi_U Portal demo -> https://www.youtube.com/watch?v=ZeHF-Lzciq8
+- Rust best practices -> https://www.youtube.com/watch?v=36L33S_DYHY 
+- Build rust dapps -> Community conversations | overview of building a dapp in Rust 
+- How to pitch my project to VCs -> https://www.youtube.com/watch?v=hK8r-W8p1GY Ledger canister -> watch Internet Identity -> https://www.youtube.com/watch?v=vCyQb9IHNQY 
+- Frontends on IC: https://www.youtube.com/watch?v=rjSDvTaEj3s 
+- Hosting on IC: https://www.youtube.com/watch?v=JAQ1dkFvfPI 
+- Motoko intro: https://www.youtube.com/watch?v=WUqMwqt7abQ 
+- Motoko intro: https://www.youtube.com/watch?v=WVeovvm3znE 
+- Motoko school: https://www.youtube.com/watch?v=A5IYLmqr6YU 
+- Encrypted notes: https://www.youtube.com/watch?v=I14cU7OlhmE 
+- Dapp: https://www.youtube.com/watch?v=fFaNLKAgoUU 
+- NFTs on IC: https://www.youtube.com/watch?v=040fTKgF9BI 
+- Intro to IC: https://www.youtube.com/watch?v=Mo5erUD-rqs 
+- Key chain tech: https://www.youtube.com/watch?v=vUcDRFC09J0 
+- IC3D NFT: https://www.youtube.com/watch?v=kz4DoIiptAg 
+- carstenj imageUpload: https://www.youtube.com/watch?v=0O4M0W47KKA 
+- HTTP cert: https://www.youtube.com/watch?v=dw6SvDfv1Yk 
+- Deploy cans in TS: https://www.youtube.com/watch?v=Mh_FWH-rMI4 
+- NFT standards on IC: https://www.youtube.com/watch?v=vgxwPtuH3Qg 
+- Design proposal SNS: https://www.youtube.com/watch?v=6V8nQ053aB8 
+- Defi -> https://www.youtube.com/watch?v=HftK4xnlSs0 
+- Hackathon workshop -> https://www.youtube.com/watch?v=nfgf3oS9W6Q 
+- Mint an NFT -> https://www.youtube.com/watch?v=VGLcBISCB3Y 
+- Http certification -> https://www.youtube.com/watch?v=dw6SvDfv1Yk 
+- Certified variables -> https://www.youtube.com/watch?v=3mZHEfICi_U Portal demo -> https://www.youtube.com/watch?v=ZeHF-Lzciq8
 
 # Encrypted notes dapp
 
@@ -55,11 +55,11 @@ When we want to do a try-catch type assertion with exception, do the following w
 
 # Cool projects on ICP 
 
-Openchat 
-Dbox 
-Dmail 
-Entrepot 
-Canistergeek 
-CanLista - https://k7gat-daaaa-aaaae-qaahq-cai.raw.ic0.app/listing/nns-ledger-10244/ryjl3-tyaaa-aaaaa-aaaba-cai
-https://devpost.com/software/cubetopia - hackathon winner 
-https://icdevs.org/who_we_are.html -icdevs by austin Fatheree - CTO 
+- Openchat 
+- Dbox 
+- Dmail 
+- Entrepot 
+- Canistergeek 
+- CanLista - https://k7gat-daaaa-aaaae-qaahq-cai.raw.ic0.app/listing/nns-ledger-10244/ryjl3-tyaaa-aaaaa-aaaba-cai
+- cubetopia - https://devpost.com/software/cubetopia - hackathon winner 
+- ICdevs - https://icdevs.org/who_we_are.html -icdevs by austin Fatheree - CTO 
